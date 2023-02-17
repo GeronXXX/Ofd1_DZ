@@ -5,13 +5,13 @@ public class DZ1 {
         byte value2 = 3;
         byte value3 = (byte) (value1 + value2);
 
-        int value = 5;
-        int valueNew = 3;
+        int value = 10;
+        int valueNew = 6;
         value = --value;
         value = value--;
-        int val = 5/2;
-        int val1 = 5%2;
-        double val2 = 5/2;
+        int val = 6/2;
+        int val1 = 6%2;
+        double val2 = 6/2;
         float val3 = 5.2F;
         int value4 = 5;
 
