@@ -5,8 +5,8 @@ public class DZ1 {
         byte value2 = 3;
         byte value3 = (byte) (value1 + value2);
 
-        int value = 10;
-        int valueNew = 6;
+        int value = 122;
+        int valueNew = 18;
         value = --value;
         value = value--;
         int val = 6/2;
