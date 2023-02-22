@@ -12,6 +12,7 @@ public class DZ2 {
 
         System.out.println("Плащадь окружности " + S);
         System.out.println("Длина оружнасти " + D);
+
     }
     private static double S(int radius) {
         return 3.14 * radius * radius;
